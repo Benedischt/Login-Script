@@ -7,7 +7,7 @@ Included:
 - SQL File - Insert into your Database (example.sql)
 
 Todo:
-1. Download all the files and Upload it into you Web Server.
+1. Download all the files and Upload it into your Web Server.
 2. Create a new Database and Insert the SQL Querys from example.sql.
 3. Edit the SQL Data in assets/config.php called SQL_HOST, SQL_USER, SQL_PASS, SQL_DB.
 4. Create a new Google Auth TAN with the create_g_key.php file.

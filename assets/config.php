@@ -1,8 +1,8 @@
 <?php
-!defined('SQL_HOST')?define('SQL_HOST'	, 	'127.0.0.1'):'';
-!defined('SQL_USER')?define('SQL_USER'	, 	'bene'):'';
-!defined('SQL_PASS')?define('SQL_PASS'	, 	'root'):'';
-!defined('SQL_DB')?define('SQL_DB'		, 	'example'):'';
+!defined('SQL_HOST')?define('SQL_HOST'	, 	'host'):'';
+!defined('SQL_USER')?define('SQL_USER'	, 	'username'):'';
+!defined('SQL_PASS')?define('SQL_PASS'	, 	'password'):'';
+!defined('SQL_DB')?define('SQL_DB'		, 	'database'):'';
 !defined('LOG_LEVEL')?define('LOG_LEVEL'	,	0):'';
 
 $sql = mysqli_connect(SQL_HOST, SQL_USER, SQL_PASS, SQL_DB);

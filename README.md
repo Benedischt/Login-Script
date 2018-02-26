@@ -11,7 +11,7 @@ Todo:
 2. Create a new Database and Insert the SQL Querys from example.sql.
 3. Edit the SQL Data in assets/config.php called SQL_HOST, SQL_USER, SQL_PASS, SQL_DB.
 4. Create a new Google Auth TAN with the create_g_key.php file.
-5. Copy The Link with is Displayed if you hit the "Create Key" Button.
+5. Copy The Link witch is Displayed if you hit the "Create Key" Button.
 6. Open it and scan the QR-Code with your Auth APP on yout Phone/Desktop/Tablet.
 7. Test your Login with Username (example) - Password (example) - TAN (Your Key from your Mobile Device)
 

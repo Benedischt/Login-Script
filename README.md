@@ -1,4 +1,4 @@
-#A Login-Script wich can be used for Login with Google Authenticator.
+#A Login-Script witch can be used for Login with Google Authenticator.
 
 Included:
 - Page - Login User with entrys of Database Table (index.php)
